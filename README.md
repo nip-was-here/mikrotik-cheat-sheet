@@ -27,8 +27,8 @@ Repo with MikroTik cheat sheets and shell script to maintain them
 - [`/data/`](./data/) - Data directory
 - [`/doc/`](./doc/) - Docs directory
 - [`/reports/`](./reports/) - Reports directory
-- [`/ros-firmware/`](./ros-firmware) - RouterOS firmware directory (soft link into `/data/`)
-- [`/templates`](./templates/) - RouterOS cheat sheets per major version
+- [`/ros-firmware/`](./ros-firmware/) - RouterOS firmware directory (soft link into `/data/`)
+- [`/templates/`](./templates/) - RouterOS cheat sheets per major version
 - [`/LICENSE`](./LICENSE) - License file
 - [`/NOTICE`](./NOTICE) - License file
 - [`/README.md`](./README.md) - Current file
