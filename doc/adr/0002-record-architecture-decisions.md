@@ -1,4 +1,4 @@
-# 1. Record architecture decisions
+# 2. Record architecture decisions
 
 Date: 2025-11-01
 
